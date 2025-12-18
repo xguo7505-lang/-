@@ -1,0 +1,7 @@
+{
+  "name": " Magic Christmas Tree 7.0",
+  "description": "A festive 3D experience featuring hand gesture controls, interactive elements, and AI-powered magical greetings.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
